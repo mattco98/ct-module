@@ -1,1 +1,1 @@
-ChatLib.chat('hello');
+ChatLib.chat('hello :)');
